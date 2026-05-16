@@ -13,7 +13,7 @@
             <ImageBrush ImageSource="/PermDynamics;component/Images/chart.jpg"/>
         </Grid.Background>
         <ScrollViewer x:Name="_scroll" VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Hidden">
-            <Canvas x:Name="_canvas" Margin="10,10,10,10" HorizontalAlignment="Left"/>
+            <Canvas x:Name="_canvas" Margin="10,10,10,10" HorizontalAlignment="Left" Height="300"/>
         </ScrollViewer>
         <Grid Width="200" Height="100" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="10, 0, 0, 10" 
               Background="#7FFFFFFF">
